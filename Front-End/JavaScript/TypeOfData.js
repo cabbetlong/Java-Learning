@@ -1,3 +1,5 @@
+'use strict'; // must use keyword 'var' to define a variable
+
 // Number:
 console.log(12e3);
 console.log(NaN); // Not a number
