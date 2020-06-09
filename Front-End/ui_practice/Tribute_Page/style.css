@@ -1,0 +1,45 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333333;
+    margin: 0;
+}
+
+#tribute-info.p {
+    text-align: justify;
+    text-justify: inter-ideograph;
+    text-indent: 2em;
+}
+
+#main {
+    margin: 20px 5px;
+    background-color: #cccccc;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: #999999;
+  padding: 10px;
+  margin: 0 2 0 2;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+#tribute-info {
+    margin: 0 auto 50px auto;
+    text-align: center;
+    width: 65%;
+}
